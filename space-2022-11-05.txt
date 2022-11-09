@@ -1,0 +1,26 @@
+############ space before deletion ############
+Filesystem                    Size  Used Avail Use% Mounted on
+udev                          3.9G  4.0K  3.9G   1% /dev
+tmpfs                         788M  532K  787M   1% /run
+/dev/dm-0                     450G  4.2G  423G   1% /
+none                          4.0K     0  4.0K   0% /sys/fs/cgroup
+none                          5.0M     0  5.0M   0% /run/lock
+none                          3.9G   24K  3.9G   1% /run/shm
+none                          100M     0  100M   0% /run/user
+/dev/sda2                     237M   43M  182M  19% /boot
+/dev/sda1                     511M  3.2M  508M   1% /boot/efi
+//10.30.23.29/Design_Orders/   19T  6.1T   13T  34% /netgear/ng29
+//10.30.23.11/Design_Orders/   19T   15T  3.4T  82% /netgear/ng11
+############ space after deletion ############
+Filesystem                    Size  Used Avail Use% Mounted on
+udev                          3.9G  4.0K  3.9G   1% /dev
+tmpfs                         788M  532K  787M   1% /run
+/dev/dm-0                     450G  4.2G  423G   1% /
+none                          4.0K     0  4.0K   0% /sys/fs/cgroup
+none                          5.0M     0  5.0M   0% /run/lock
+none                          3.9G   24K  3.9G   1% /run/shm
+none                          100M     0  100M   0% /run/user
+/dev/sda2                     237M   43M  182M  19% /boot
+/dev/sda1                     511M  3.2M  508M   1% /boot/efi
+//10.30.23.29/Design_Orders/   19T  5.5T   13T  30% /netgear/ng29
+//10.30.23.11/Design_Orders/   19T   13T  5.3T  72% /netgear/ng11
